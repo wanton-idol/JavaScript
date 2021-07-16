@@ -1,2 +1,2 @@
-# JavaScript.github.io
+Projects using HTML, CSS and JavaScript
  
